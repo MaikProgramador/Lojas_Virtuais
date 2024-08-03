@@ -149,7 +149,7 @@ for loja in lojas_virtuais:
     loja["nome_da_loja"] = loja.pop("fantasia")
 
 # Convertendo para JSON e salvando em um arquivo
-with open('clientes.json', 'w') as json_file:
+with open('lojas_virtuais.json', 'w') as json_file:
     json.dump(lojas_virtuais, json_file, indent=4, ensure_ascii=False)
 
 print("Dados atualizados e salvos no arquivo 'clientes.json'.")
