@@ -1,0 +1,142 @@
+[
+    {
+        "telefone": "(14) 3737-0919",
+        "endereco": "R: ANTENOR LARA CAMPOS, CASCATA",
+        "cidade": "GARÇA-SP",
+        "cep": "17400-136",
+        "nome_da_loja": "PIU SHOP"
+    },
+    {
+        "telefone": "(11) 97055-1818",
+        "endereco": "R MARCELO MULLER, 413, JARDIM INDEPENDENCIA",
+        "cidade": "SÃO PAULO",
+        "cep": "03223-060",
+        "nome_da_loja": "MP STORE"
+    },
+    {
+        "telefone": "(11) 99236-3031",
+        "endereco": "RUA DOS FLOX, 1419",
+        "cidade": "CAJAMAR",
+        "cep": "07791-030",
+        "nome_da_loja": "MC MUSIC"
+    },
+    {
+        "telefone": "(11) 94984-3948 / (11) 99725-0116",
+        "endereco": "R VICENTE R DA SILVA, 475, PIRATININGA",
+        "cidade": "OSASCO",
+        "cep": "06230-094",
+        "nome_da_loja": "LIQUIDA MEGA STORE"
+    },
+    {
+        "telefone": "(11) 3360-7870",
+        "endereco": "R SEVERA, VILA M. BAIXA",
+        "cidade": "SÃO PAULO",
+        "cep": "02111-000",
+        "nome_da_loja": "RCK"
+    },
+    {
+        "telefone": "(11) 2058-4217",
+        "endereco": "R CHACURU, 231, VILA CURUCA",
+        "cidade": "SÃO PAULO",
+        "cep": "08030-100",
+        "nome_da_loja": "SHOPER EQUIPAMENTOS"
+    },
+    {
+        "telefone": "(11) 96572-7064",
+        "endereco": "AVENIDA JOAO BATISTA MEDINA, 217, CENTRO",
+        "cidade": "EMBÚ",
+        "cep": "06803-447",
+        "nome_da_loja": "J P SHOP MUSIC"
+    },
+    {
+        "telefone": "13 99789-6119",
+        "endereco": "JOSE CUSTODIO DE OLIVEIRA, 75, VILA TUPY",
+        "cidade": "REGISTRO",
+        "cep": "11900-000",
+        "nome_da_loja": "PANORAMA MUSICAL"
+    },
+    {
+        "telefone": "(51) 98641-8259",
+        "endereco": "R HELVETIA, 795, CAMPOS ELISEOS",
+        "cidade": "RIO GRANDE DO SUL",
+        "cep": "01215-010",
+        "nome_da_loja": "BACK STAGE"
+    },
+    {
+        "telefone": "(34) 3842-7557",
+        "endereco": "R FORMOSA, 263, BOA VISTA",
+        "cidade": "MONTE CARMELO",
+        "cep": "38500-000",
+        "nome_da_loja": "ELETRO MUSIC"
+    },
+    {
+        "telefone": "(14) 98116-9269",
+        "endereco": "RUA MARIA IZABEL, 696, LABIENOPOLIS",
+        "cidade": "GARÇA-SP",
+        "cep": "17404-300",
+        "nome_da_loja": "TEMTEC"
+    },
+    {
+        "telefone": "(18) 3222-1428 / 0800-7779015",
+        "endereco": "AV JOAQUIM CONSTANTINO, 3980, JARDIM SAO LUIS",
+        "cidade": "PRESIDENTE PRUDENTE",
+        "cep": "19061-000",
+        "nome_da_loja": "ENTER LIGHT"
+    },
+    {
+        "telefone": "(14) 98203-3932",
+        "endereco": "RUA ANDRÉ LUIZ, 699, JARDIM MONDRIAN",
+        "cidade": "GARÇA-SP",
+        "cep": "17400-826",
+        "nome_da_loja": "RBS SHOP STORE"
+    },
+    {
+        "telefone": "(14) 98133-9199 / (14) 98807-1852",
+        "endereco": "AVENIDA DOUTOR LABIENO DA COSTA MACHADO, 09, LABIENÓPOLIS",
+        "cidade": "GARÇA-SP",
+        "cep": "17404-328",
+        "nome_da_loja": "SANTIAGO ELETRO"
+    },
+    {
+        "telefone": "",
+        "endereco": "ROD CARLOS J STRASS, 585, PARQUE I. ALICANTE",
+        "cidade": "LONDRINA",
+        "cep": "86087-350",
+        "nome_da_loja": "OTTENIO RODRIGUES ELETRON"
+    },
+    {
+        "telefone": "(43) 3323-8394",
+        "endereco": "MARANHÃO, 449, CENTRO",
+        "cidade": "LONDRINA",
+        "cep": "86010-410",
+        "nome_da_loja": "COLOMERA"
+    },
+    {
+        "telefone": "(48) 98816-9940",
+        "endereco": "R HENRIQUE LAGE, 267, CENTRO",
+        "cidade": "CRICIUMA",
+        "cep": "88801-010",
+        "nome_da_loja": "NET MUSIC"
+    },
+    {
+        "telefone": "(16) 3632-8137",
+        "endereco": "R JOSE BONIFACIO, 272, CENTRO",
+        "cidade": "RIBEIRO PRETO",
+        "cep": "14010-050",
+        "nome_da_loja": "E.N SOM E ACESSORIOS"
+    },
+    {
+        "telefone": "(17) 3324-5623",
+        "endereco": "AV 7, 1137, FORTALEZA",
+        "cidade": "BARRETOS",
+        "cep": "14780-240",
+        "nome_da_loja": "VS SOM"
+    },
+    {
+        "telefone": "(16) 3242-4536 / (16) 99708-4536",
+        "endereco": "R RUI BARBOSA, 557, CENTRO",
+        "cidade": "MONTE ALTO",
+        "cep": "15910-000",
+        "nome_da_loja": "STATUS SOM GAMES"
+    }
+]
